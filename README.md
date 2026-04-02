@@ -17,13 +17,7 @@ Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 ## Recently deployed hot projects
 
-**[Depth-wise](https://github.com/varuntej07/Depth-wise)** — visual knowledge trees, any topic, infinite depth, zero fluff. [try it](https://depthwise.app)
-
-**[Pocket-Panel](https://github.com/varuntej07/Pocket-Panel)** — two AI voice agents debating each other in real-time via Amazon Nova Sonic. [try it] (pocketpanel-production.up.railway.app)
-
-**[Ooink-ai](https://github.com/varuntej07/ooink-ai)** — voice-enabled AI pig bot deployed at a ramen restaurant in Seattle, first freelancing client.
-
-**[BugSnap](https://github.com/varuntej07/BugSnap)** — Chrome extension, screenshot your screen, get instant NL bug diagnosis.
+**[Depth-wise](https://depthwise.app)** · **[Pocket-Panel](https://pocketpanel-production.up.railway.app)** · **[Ooink-ai](https://github.com/varuntej07/ooink-ai)** · **[BugSnap](https://github.com/varuntej07/BugSnap)**
 
 ---
 
