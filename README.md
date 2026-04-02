@@ -4,25 +4,24 @@
 
 <br/>
 
-Exploring the messy magic of GenAI—and forcing it to behave in production. Founding Engineer, Full-Stack Builder, Freelancer. Master's in CS, 5 shipped products, and one conversation with the Mayor of Seattle.
+Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/varuntej.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varuntej.dev/)
-[![GitHub](https://img.shields.io/badge/varuntej07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varuntej07)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varuntej07)
 
 </div>
 
 ---
 
-## what I ship
+## Recently deployed hot projects
 
 **[Depth-wise](https://github.com/varuntej07/Depth-wise)** — visual knowledge trees, any topic, infinite depth, zero fluff. [try it](https://depthwise.app)
 
-**[Pocket-Panel](https://github.com/varuntej07/Pocket-Panel)** — two AI voice agents debating each other in real-time via Amazon Nova Sonic. *est. April 1st* 🎂
+**[Pocket-Panel](https://github.com/varuntej07/Pocket-Panel)** — two AI voice agents debating each other in real-time via Amazon Nova Sonic. [try it] (pocketpanel-production.up.railway.app)
 
-**[ooink-ai](https://github.com/varuntej07/ooink-ai)** — voice-enabled AI kiosk deployed at a real ramen restaurant in Seattle, first freelancing client.
+**[Ooink-ai](https://github.com/varuntej07/ooink-ai)** — voice-enabled AI pig bot deployed at a ramen restaurant in Seattle, first freelancing client.
 
 **[BugSnap](https://github.com/varuntej07/BugSnap)** — Chrome extension, screenshot your screen, get instant NL bug diagnosis.
 
@@ -32,9 +31,10 @@ Exploring the messy magic of GenAI—and forcing it to behave in production. Fou
 
 | What | Where |
 |------|-------|
-| **Won** GitHub x Microsoft Hack Day | MedTriageAI — voice AI medical triage |
+| **Runner-up** GitHub x Microsoft Hack Day | MedTriageAI — voice AI medical triage |
 | **Won** City of Seattle Hackathon | Hotspotter — presented the solution to the Mayor of Seattle |
 | **Judged** HackSU 2026 | Invited as a judge |
+| **Results awaiting** Amazon Nova Hackathon 2026 | Made two voice AI agents debate in real time |
 
 ---
 
@@ -85,27 +85,5 @@ Documenting the path from silicon to serving.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=varuntej07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/varuntej07/varuntej07/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=varuntej07&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-<sub>88% commits · Pull Shark ×2 · Pair Extraordinaire · YOLO — building multi-agent systems that work outside the demo.</sub>
 
 </div>
