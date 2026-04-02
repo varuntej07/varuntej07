@@ -8,8 +8,6 @@ Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/varuntej.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varuntej.dev/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varuntej07)
 
 </div>
 
@@ -21,22 +19,19 @@ Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 ---
 
-## wins
+## hackathons
 
-| What | Where |
-|------|-------|
-| **Runner-up** GitHub x Microsoft Hack Day | MedTriageAI — voice AI medical triage |
-| **Won** City of Seattle Hackathon | Hotspotter — presented the solution to the Mayor of Seattle |
-| **Judged** HackSU 2026 | Invited as a judge |
-| **Results awaiting** Amazon Nova Hackathon 2026 | Made two voice AI agents debate in real time |
+**Runner-up** GitHub x Microsoft Hack Day - MedTriageAI, voice AI medical triage
+**Won** City of Seattle Hackathon - Hotspotter, presented the solution to the Mayor of Seattle
+**Judged** HackSU 2026 - invited as a judge
+**Results awaiting** Amazon Nova Hackathon 2026 - made two voice AI agents debate in real time
 
 ---
 
 ## writing
 
-[Triton Is Not CUDA in Python — It's a Tiling DSL](https://medium.com/@varuntej07/triton-is-not-cuda-in-python-its-a-tiling-dsl-c65c15ce3c46)
-
-[Why PyTorch Wastes Your GPU Memory on Purpose (And Why That's Brilliant)](https://medium.com/@varuntej07/why-pytorch-wastes-your-gpu-memory-on-purpose-and-why-thats-brilliant-0a76899797fb)
+[Triton Is Not CUDA in Python — It's a Tiling DSL](https://medium.com/@varuntej07/triton-is-not-cuda-in-python-its-a-tiling-dsl-c65c15ce3c46) · [Why PyTorch Wastes Your GPU Memory on Purpose](https://medium.com/@varuntej07/why-pytorch-wastes-your-gpu-memory-on-purpose-and-why-thats-brilliant-0a76899797fb)
+More at [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varuntej07)
 
 ---
 
