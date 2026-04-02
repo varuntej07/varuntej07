@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Tej+%F0%9F%91%8B;I+build+AI+things+that+actually+ship.;Voice+agents.+Chrome+extensions.+Kiosks.;%E2%80%9CI%27m+him.%E2%80%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Tej+%F0%9F%91%8B;Founding+Engineer+orchestrating+multi-agent+frameworks;Into+inference+engineering+%E2%80%94+Triton%2C+CUDA%2C+GPU+memory+systems;I+ship+things+that+work+outside+the+demo" alt="Typing SVG" />
 
 <br/>
 
-Full-stack + AI builder out of Seattle. I don't just prototype — I deploy.
+Exploring the messy magic of GenAI—and forcing it to behave in production. Founding Engineer, Full-Stack Builder, Freelancer. Master's in CS, 5 shipped products, and one conversation with the Mayor of Seattle.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/varuntej.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varuntej.dev/)
 [![GitHub](https://img.shields.io/badge/varuntej07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varuntej07)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varuntej07)
 
 </div>
 
@@ -17,16 +18,41 @@ Full-stack + AI builder out of Seattle. I don't just prototype — I deploy.
 
 ## what I ship
 
-> Things you can call, talk to, and find in the real world.
-
 | Project | What it does |
-|---|---|
-| [**MedTriageAI**](https://github.com/varuntej07/MedTriageAI) | 📞 Voice AI medical triage — call **+1 833 751 2248**, describe symptoms, get instant guidance |
-| [**ooink-ai**](https://github.com/varuntej07/ooink-ai) | 🐷 Pig AI kiosk deployed at a real ramen restaurant in Seattle |
-| [**BugSnap**](https://github.com/varuntej07/BugSnap) | 🔍 Chrome ext — screenshot your screen → instant NL bug diagnosis |
-| [**Pocket-Panel**](https://github.com/varuntej07/Pocket-Panel) | 🎙️ Two AI voice agents debating in real-time via Amazon Nova Sonic |
-| [**Depth-wise**](https://github.com/varuntej07/Depth-wise) | 🌳 Visual knowledge trees — any topic, infinite depth, zero fluff |
+|---------|-------------|
+| [**MedTriageAI**](https://github.com/varuntej07/MedTriageAI) | 📞 Voice AI medical triage — call **+1 833 751 2248**, describe symptoms, get instant guidance. Won GitHub x Microsoft Hack Day. |
+| [**Pocket-Panel**](https://github.com/varuntej07/Pocket-Panel) | 🎙️ Two AI voice agents debating each other in real-time via Amazon Nova Sonic. [Try it](https://pocketpanel.app) — *est. April 1st 🎂* |
+| [**ooink-ai**](https://github.com/varuntej07/ooink-ai) | 🐷 Voice-enabled AI kiosk deployed at a real ramen restaurant in Seattle — first freelancing client |
+| [**Depth-wise**](https://github.com/varuntej07/Depth-wise) | 🌳 Visual knowledge trees — any topic, infinite depth, zero fluff. [Try it](https://depthwise.app) |
+| [**BugSnap**](https://github.com/varuntej07/BugSnap) | 🔍 Chrome extension — screenshot your screen, get instant NL bug diagnosis |
 | [**My-Agent**](https://github.com/varuntej07/My-Agent) | 🤖 My AI clone. Talks like me. Answers like me. [Try it](https://varuntej.dev/) |
+| [**FocusFuel**](https://github.com/varuntej07/FocusFuel) | 📱 Flutter/Firebase productivity app with multi-agent LangChain notifications — live on Play Store |
+
+---
+
+## wins
+
+| What | Where |
+|------|-------|
+| **Runner-up** GitHub x Microsoft Hack Day | MedTriageAI — voice AI medical triage |
+| **Finalist** Amazon Nova Hackathon *(results April 9th)* | [Pocket-Panel](https://pocketpanel-production.up.railway.app/) — two AI voice agents debating in real-time |
+| **Won** City of Seattle Hackathon | Hotspotter — presented solution to the Mayor of Seattle |
+| **Judged** HackSU 2026 | Invited as a judge |
+
+---
+
+## writing
+
+Documenting the path from silicon to serving.
+
+| Post |
+|------|
+| [Triton Is Not CUDA in Python — It's a Tiling DSL](https://medium.com/@varuntej07/triton-is-not-cuda-in-python-its-a-tiling-dsl-c65c15ce3c46) |
+| [Why PyTorch Wastes Your GPU Memory on Purpose (And Why That's Brilliant)](https://medium.com/@varuntej07/why-pytorch-wastes-your-gpu-memory-on-purpose-and-why-thats-brilliant-0a76899797fb) |
+
+---
+
+*Previously: Veritone (DistilBERT fine-tuning, FastAPI inference on AWS) · Accenture (enterprise SAP systems)*
 
 ---
 
@@ -42,11 +68,14 @@ Full-stack + AI builder out of Seattle. I don't just prototype — I deploy.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 </div>
 
@@ -56,7 +85,7 @@ Full-stack + AI builder out of Seattle. I don't just prototype — I deploy.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=varuntej07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=varuntej07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntej07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
@@ -80,11 +109,5 @@ Full-stack + AI builder out of Seattle. I don't just prototype — I deploy.
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varuntej07&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-<sub>88% commits · Pull Shark ×2 · Pair Extraordinaire · YOLO — I ship, therefore I am.</sub>
 
 </div>
