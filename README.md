@@ -17,17 +17,6 @@ Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 **[Depth-wise](https://depthwise.app)** · **[Pocket-Panel](https://pocketpanel-production.up.railway.app)** · **[Ooink-ai](https://github.com/varuntej07/ooink-ai)** · **[BugSnap](https://github.com/varuntej07/BugSnap)**
 
----
-
-## hackathons
-
-**Runner-up** GitHub x Microsoft Hack Day - MedTriageAI, voice AI medical triage
-**Won** City of Seattle Hackathon - Hotspotter, presented the solution to the Mayor of Seattle
-**Judged** HackSU 2026 - invited as a judge
-**Results awaiting** Amazon Nova Hackathon 2026 - made two voice AI agents debate in real time
-
----
-
 ## writing
 
 [Triton Is Not CUDA in Python — It's a Tiling DSL](https://medium.com/@varuntej07/triton-is-not-cuda-in-python-its-a-tiling-dsl-c65c15ce3c46) · [Why PyTorch Wastes Your GPU Memory on Purpose](https://medium.com/@varuntej07/why-pytorch-wastes-your-gpu-memory-on-purpose-and-why-thats-brilliant-0a76899797fb)
