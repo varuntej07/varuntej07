@@ -15,7 +15,7 @@ Founding Engineer, Full-Stack Builder, Freelancer. Aspiring Inference Engineer!
 
 ## Recently deployed hot projects
 
-**[Depth-wise](https://depthwise.app)** · **[Pocket-Panel](https://pocketpanel-production.up.railway.app)** · **[Ooink-ai](https://github.com/varuntej07/ooink-ai)** · **[BugSnap](https://github.com/varuntej07/BugSnap)**
+**[Aura](https://auravoiceapp.com)** · **[Depth-wise](https://depthwise.app)** · **[Pocket-Panel](https://pocketpanel-production.up.railway.app)** · **[Ooink-ai](https://github.com/varuntej07/ooink-ai)** · **[BugSnap](https://github.com/varuntej07/BugSnap)**
 
 ## writing
 
