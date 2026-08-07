@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Tej;Founding+Engineer+orchestrating+multi-agent+frameworks;Into+inference+engineering+-+AWS-NKI%2C+Distributed Systerms%2C+memory;I+ship+things+that+work+outside+the+demo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Tej;Founding+Engineer+orchestrating+multi-agent+frameworks;Into+inference+engineering+-+AWS+NKI%2C+distributed+systems%2C+GPU+memory;I+ship+things+that+work+outside+the+demo&v=2" alt="Animated introduction" />
 
 <br/>
 
@@ -28,8 +28,8 @@ More at [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badg
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=varuntej07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntej07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varuntej07&theme=tokyonight" alt="GitHub stats" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntej07&theme=tokyonight" alt="Top languages by repository" />
 
 </div>
 
