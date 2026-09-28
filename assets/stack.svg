@@ -15,8 +15,10 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#00D9FF" stop-opacity=".7"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient></defs>
 <rect width="900" height="600" rx="16" fill="url(#bg)" stroke="#30363d"/>
 <circle cx="28" cy="26" r="6" fill="#30363d"/><circle cx="48" cy="26" r="6" fill="#30363d"/><circle cx="68" cy="26" r="6" fill="#30363d"/>
-<text x="96" y="31" class="cap">one voice turn, traced through every layer I have shipped code into</text>
-<text x="28" y="66" class="cmd"><tspan fill="#6e7681">tej@seattle:~</tspan>$ trace "hey aura, what is on my calendar?"<tspan class="caret" fill="#00D9FF"> ▍</tspan></text>
+<text x="96" y="31" class="cap">what happens after you say "hey aura"</text>
+<text x="28" y="66" class="cmd"><tspan fill="#6e7681">tej@seattle:~</tspan>$ follow "hey aura, what’s on my calendar?"<tspan class="caret" fill="#00D9FF"> ▍</tspan></text>
+<text x="112" y="86" class="cap" text-anchor="middle" style="font-size:11px">request ↓</text>
+<text x="112" y="550" class="cap" text-anchor="middle" style="font-size:11px">↑ answer</text>
 <line x1="112" y1="124.0" x2="112" y2="504.0" stroke="#30363d" stroke-width="2" stroke-dasharray="3 5"/>
 <g>
 <text x="28" y="129" class="id">L5</text>
@@ -25,10 +27,10 @@
 <rect x="150" y="92" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="92" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.035;0.965;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="104" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="119" class="name">PRODUCT</text>
-<text x="170" y="141" class="tags">Aura  ·  Depth-wise  ·  Pocket-Panel  ·  MedTriageAI</text>
-<rect x="784" y="112" width="76" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="822" y="128" class="chip" text-anchor="middle">5 shipped</text>
+<text x="170" y="119" class="name">THE APP</text>
+<text x="170" y="141" class="tags">you ask Aura something, out loud</text>
+<rect x="792" y="112" width="68" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="826" y="128" class="chip" text-anchor="middle">building</text>
 </g>
 <g>
 <text x="28" y="205" class="id">L4</text>
@@ -37,10 +39,10 @@
 <rect x="150" y="168" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="168" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.065;0.1;0.135;0.865;0.9;0.935;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="180" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="195" class="name">DEVICES</text>
-<text x="170" y="217" class="tags">Tauri desktop  ·  Android keyboard  ·  Flutter  ·  tablet kiosk</text>
-<rect x="755" y="188" width="105" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="807" y="204" class="chip" text-anchor="middle">25 PRs merged</text>
+<text x="170" y="195" class="name">THE DEVICE</text>
+<text x="170" y="217" class="tags">a phone, a laptop, or a tablet at a ramen shop hears you</text>
+<rect x="792" y="188" width="68" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="826" y="204" class="chip" text-anchor="middle">building</text>
 </g>
 <g>
 <text x="28" y="281" class="id">L3</text>
@@ -49,10 +51,10 @@
 <rect x="150" y="244" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="244" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.165;0.2;0.235;0.765;0.8;0.835;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="256" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="271" class="name">CLOUD RUNTIME</text>
-<text x="170" y="293" class="tags">FastAPI  ·  Cloud Run  ·  LiveKit  ·  WebRTC  ·  MCP</text>
-<rect x="747" y="264" width="113" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="804" y="280" class="chip" text-anchor="middle">3-LLM failover</text>
+<text x="170" y="271" class="name">THE CLOUD</text>
+<text x="170" y="293" class="tags">a server picks the right model and tools</text>
+<rect x="792" y="264" width="68" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="826" y="280" class="chip" text-anchor="middle">building</text>
 </g>
 <g>
 <text x="28" y="357" class="id">L2</text>
@@ -61,10 +63,10 @@
 <rect x="150" y="320" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="320" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.265;0.3;0.335;0.665;0.7;0.735;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="332" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="347" class="name">INFERENCE</text>
-<text x="170" y="369" class="tags">Voxtral 3B  ·  CLIP  ·  Qwen2.5-VL  ·  NF4  ·  profiling</text>
-<rect x="777" y="340" width="83" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="818" y="356" class="chip" text-anchor="middle">66x vs CPU</text>
+<text x="170" y="347" class="name">THE MODEL</text>
+<text x="170" y="369" class="tags">a model turns your voice into an answer</text>
+<rect x="710" y="340" width="150" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="785" y="356" class="chip" text-anchor="middle">currently exploring</text>
 </g>
 <g>
 <text x="28" y="433" class="id">L1</text>
@@ -73,10 +75,10 @@
 <rect x="150" y="396" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="396" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.365;0.4;0.435;0.565;0.6;0.635;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="408" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="423" class="name">COMPILER + FABRIC</text>
-<text x="170" y="445" class="tags">neuronx-cc  ·  XLA  ·  NEFF  ·  NeuronLink  ·  EFA</text>
-<rect x="733" y="416" width="127" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="796" y="432" class="chip" text-anchor="middle">cos 0.37 → 0.999</text>
+<text x="170" y="423" class="name">THE COMPILER</text>
+<text x="170" y="445" class="tags">the model gets translated for the chip</text>
+<rect x="710" y="416" width="150" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="785" y="432" class="chip" text-anchor="middle">currently exploring</text>
 </g>
 <g>
 <text x="28" y="509" class="id">L0</text>
@@ -85,10 +87,10 @@
 <rect x="150" y="472" width="726" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="150" y="472" width="726" height="64" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.465;0.5;0.535;1" dur="7.0s" repeatCount="indefinite"/></rect>
 <rect x="150" y="484" width="4" height="40" rx="2" fill="#484f58"/>
-<text x="170" y="499" class="name">SILICON</text>
-<text x="170" y="521" class="tags">NKI  ·  Triton  ·  CUDA  ·  systolic array  ·  HBM</text>
-<rect x="740" y="482" width="120" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="800" y="498" class="chip" text-anchor="middle">merged upstream</text>
+<text x="170" y="499" class="name">THE CHIP</text>
+<text x="170" y="521" class="tags">the hardware does the math</text>
+<rect x="710" y="482" width="150" height="24" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="785" y="498" class="chip" text-anchor="middle">currently exploring</text>
 </g>
 <rect class="cell" x="703" y="508" width="7" height="7" rx="1.5" style="animation-delay:0.00s"/>
 <rect class="cell" x="713" y="508" width="7" height="7" rx="1.5" style="animation-delay:0.09s"/>
@@ -140,5 +142,5 @@
 <rect class="cell" x="853" y="528" width="7" height="7" rx="1.5" style="animation-delay:1.53s"/>
 <circle cx="112" r="16" fill="url(#glow)"><animate attributeName="cy" values="124;200;276;352;428;504;428;352;276;200;124" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="7.0s" repeatCount="indefinite"/></circle>
 <circle cx="112" r="5" fill="#00D9FF"><animate attributeName="cy" values="124;200;276;352;428;504;428;352;276;200;124" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="7.0s" repeatCount="indefinite"/></circle>
-<text x="450.0" y="578" class="cap" text-anchor="middle">software + hardware  ·  one engineer  ·  pick a layer</text>
+<text x="450.0" y="578" class="cap" text-anchor="middle">I love working on every layer of this. Lately, mostly the bottom three.</text>
 </svg>
