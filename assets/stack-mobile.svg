@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="640" viewBox="0 0 420 640" role="img" aria-label="What happens after you say hey aura: the app, the device, the cloud, the model, the compiler and the chip">
+<style>
+  text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .cap { fill:#6e7681; font-size:13px; }
+  .hint { fill:#6e7681; font-size:11px; }
+  .cmd { fill:#c9d1d9; font-size:13px; }
+  .name { fill:#e6edf3; font-size:15px; font-weight:800; letter-spacing:1.2px; }
+  .tags { fill:#8b949e; font-size:13px; }
+  .chip { fill:#c9d1d9; font-size:11px; font-weight:600; }
+  .cell { fill:#00D9FF; opacity:.10; animation: wave 2.4s ease-in-out infinite; }
+  @keyframes wave { 0%,100% { opacity:.10 } 20% { opacity:.85 } 45% { opacity:.10 } }
+  .caret { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity:0 } }
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#00D9FF" stop-opacity=".7"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient></defs>
+<rect width="420" height="640" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<circle cx="22" cy="24" r="5" fill="#30363d"/><circle cx="38" cy="24" r="5" fill="#30363d"/><circle cx="54" cy="24" r="5" fill="#30363d"/>
+<text x="72" y="28" class="cap">what happens after you say "hey aura"</text>
+<text x="16" y="60" class="cmd">$ "hey aura, what’s on my calendar?"<tspan class="caret" fill="#00D9FF"> ▍</tspan></text>
+<text x="14" y="84" class="hint">request ↓</text>
+<line x1="26" y1="127.0" x2="26" y2="527.0" stroke="#30363d" stroke-width="2" stroke-dasharray="3 5"/>
+<circle cx="26" cy="127" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="127" x2="48" y2="127" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="92" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="92" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.035;0.965;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="106" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="121" class="name">THE APP</text>
+<text x="64" y="145" class="tags">you ask Aura something, out loud</text>
+<rect x="328" y="104" width="68" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="362" y="119" class="chip" text-anchor="middle">building</text>
+<circle cx="26" cy="207" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="207" x2="48" y2="207" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="172" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="172" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.065;0.1;0.135;0.865;0.9;0.935;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="186" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="201" class="name">THE DEVICE</text>
+<text x="64" y="225" class="tags">your phone, laptop, or a kiosk hears you</text>
+<rect x="328" y="184" width="68" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="362" y="199" class="chip" text-anchor="middle">building</text>
+<circle cx="26" cy="287" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="287" x2="48" y2="287" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="252" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="252" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.165;0.2;0.235;0.765;0.8;0.835;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="266" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="281" class="name">THE CLOUD</text>
+<text x="64" y="305" class="tags">a server picks the right model and tools</text>
+<rect x="328" y="264" width="68" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="362" y="279" class="chip" text-anchor="middle">building</text>
+<circle cx="26" cy="367" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="367" x2="48" y2="367" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="332" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="332" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.265;0.3;0.335;0.665;0.7;0.735;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="346" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="361" class="name">THE MODEL</text>
+<text x="64" y="385" class="tags">a model turns your voice into an answer</text>
+<rect x="255" y="344" width="141" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="325" y="359" class="chip" text-anchor="middle">currently exploring</text>
+<circle cx="26" cy="447" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="447" x2="48" y2="447" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="412" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="412" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0;1;0;0" keyTimes="0;0.365;0.4;0.435;0.565;0.6;0.635;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="426" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="441" class="name">THE COMPILER</text>
+<text x="64" y="465" class="tags">the model gets translated for the chip</text>
+<rect x="255" y="424" width="141" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="325" y="439" class="chip" text-anchor="middle">currently exploring</text>
+<circle cx="26" cy="527" r="5" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+<line x1="32" y1="527" x2="48" y2="527" stroke="#30363d" stroke-width="2"/>
+<rect x="48" y="492" width="358" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="492" width="358" height="70" rx="10" fill="#00D9FF" fill-opacity=".06" stroke="#00D9FF" stroke-width="1.5" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.465;0.5;0.535;1" dur="7.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="506" width="4" height="42" rx="2" fill="#484f58"/>
+<text x="64" y="521" class="name">THE CHIP</text>
+<text x="64" y="545" class="tags">the hardware does the math</text>
+<rect x="255" y="504" width="141" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
+<text x="325" y="519" class="chip" text-anchor="middle">currently exploring</text>
+<rect class="cell" x="316" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.00s"/>
+<rect class="cell" x="325" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.09s"/>
+<rect class="cell" x="334" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.18s"/>
+<rect class="cell" x="343" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.27s"/>
+<rect class="cell" x="352" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.36s"/>
+<rect class="cell" x="361" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.45s"/>
+<rect class="cell" x="370" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.54s"/>
+<rect class="cell" x="379" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.63s"/>
+<rect class="cell" x="388" y="538" width="6" height="6" rx="1.5" style="animation-delay:0.72s"/>
+<rect class="cell" x="316" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.09s"/>
+<rect class="cell" x="325" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.18s"/>
+<rect class="cell" x="334" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.27s"/>
+<rect class="cell" x="343" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.36s"/>
+<rect class="cell" x="352" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.45s"/>
+<rect class="cell" x="361" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.54s"/>
+<rect class="cell" x="370" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.63s"/>
+<rect class="cell" x="379" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.72s"/>
+<rect class="cell" x="388" y="547" width="6" height="6" rx="1.5" style="animation-delay:0.81s"/>
+<circle cx="26" r="14" fill="url(#glow)"><animate attributeName="cy" values="127;207;287;367;447;527;447;367;287;207;127" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="7.0s" repeatCount="indefinite"/></circle>
+<circle cx="26" r="5" fill="#00D9FF"><animate attributeName="cy" values="127;207;287;367;447;527;447;367;287;207;127" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="7.0s" repeatCount="indefinite"/></circle>
+<text x="14" y="574" class="hint">↑ answer</text>
+<text x="210.0" y="602" class="cap" text-anchor="middle">I love working on every layer of this.</text>
+<text x="210.0" y="622" class="cap" text-anchor="middle">Lately, mostly the bottom three.</text>
+</svg>

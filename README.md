@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Tej;I+love+building+from+the+chip+up+to+the+app;Currently%3A+voice+AI+on+AWS+Trainium+and+Inferentia&v=4" alt="Animated introduction" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=380&lines=Hey%2C+I%27m+Tej;I+love+building+chip+to+app;Currently%3A+voice+AI+on+AWS+chips&v=1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Tej;I+love+building+from+the+chip+up+to+the+app;Currently%3A+voice+AI+on+AWS+Trainium+and+Inferentia&v=4" alt="Animated introduction" />
+</picture>
 
 Founding engineer building Aura, a voice AI companion. Lately happiest where software meets silicon.
 
@@ -11,7 +14,10 @@ Founding engineer building Aura, a voice AI companion. Lately happiest where sof
 
 <br/>
 
-<img src="assets/stack.svg" width="100%" alt="What happens after you say hey aura: the app, the device, the cloud, the model, the compiler and the chip, and the answer coming back up" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg" />
+  <img src="assets/stack.svg" width="100%" alt="What happens after you say hey aura: the app, the device, the cloud, the model, the compiler and the chip, and the answer coming back up" />
+</picture>
 
 </div>
 
